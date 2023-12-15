@@ -1,0 +1,59 @@
+.kk{
+max-width: 60%;
+}
+.ln{
+    border: 1px solid rgb(157, 192, 189);
+    margin-top: 10px;
+}
+.ln2{
+    height: 20vh;
+    width: 100%;
+    text-align: center;
+}
+body{
+    background-image: url(fon.jpg);
+    color: rgb(255, 255, 255);
+}
+
+a {
+    color: rgb(157, 192, 189);
+}
+
+.product {
+    max-width: 400px;
+}
+
+img {
+    width: 200px;
+    height: auto;
+    cursor: pointer;
+}
+
+.vital{
+    font-style: italic;
+    color: #ffffff;
+    font-size: 18px;
+    line-height: 16px;
+}
+h2 h3 h4 {
+    font-size: 18px;
+    font-weight: 400;
+}
+.podr{
+    color: #fffefe;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 24px;
+
+}
+
+table {
+    border : 1px solid #000;
+    width: 500px;
+    height: 500px;
+    }
+
+    td {
+    border : 1px solid rgb(112, 128, 126);}
+
+    
